@@ -38,5 +38,5 @@ DOMAIN-SUFFIX,nostrapps.com
 
 # ==================== 通用关键词匹配 ====================
 DOMAIN-KEYWORD,nostr
-
+DOMAIN-KEYWORD,nostatus
 # ==================== 结束 ====================
