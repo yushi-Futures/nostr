@@ -36,6 +36,7 @@ DOMAIN-SUFFIX,damus.io
 DOMAIN-SUFFIX,nostr.com
 DOMAIN-SUFFIX,nostrapps.com
 DOMAIN-SUFFIX,nostatus.vercel.app
+DOMAIN-SUFFIX,nostter.app
 
 # ==================== 通用关键词匹配 ====================
 DOMAIN-KEYWORD,nostr
