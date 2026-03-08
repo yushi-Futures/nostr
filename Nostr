@@ -35,6 +35,7 @@ DOMAIN-SUFFIX,nostr.band
 DOMAIN-SUFFIX,damus.io
 DOMAIN-SUFFIX,nostr.com
 DOMAIN-SUFFIX,nostrapps.com
+DOMAIN-SUFFIX,nostatus.vercel.app
 
 # ==================== 通用关键词匹配 ====================
 DOMAIN-KEYWORD,nostr
